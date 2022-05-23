@@ -15,7 +15,7 @@ Skills: C / C++ / Java / Python / HTML / Css
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rihanali001)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihanali001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihanali001&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihanali001&show_icons=true&count_private=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihanali001)
 
