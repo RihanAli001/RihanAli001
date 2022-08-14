@@ -17,8 +17,6 @@ Skills: C / C++ / Java / Python / HTML / Css
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihanali001&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihanali001&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihanali001)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rihanali001) 
-
 <!---
 RihanAli0001/RihanAli0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
