@@ -5,11 +5,8 @@
 - 🎓 I am currently pursuing for B.Tech.
 - 👨‍💻 I am interested in Android Devlopment.
 - 🤗 I am always open to learn new things.
-- 🎯 2022 Goal : Keep learning and keep contributing.
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning Artificial intelligence.
-
-Skills: C++ / Java / Python / HTML / Css 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rihanali001)](https://github.com/ryo-ma/github-profile-trophy)
 
