@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I am currently pursuing for B.Tech.
-- 👨‍💻 I am interested in Android Devlopment.
-- 🤗 I am always open to learn new things.
+- 🎓 I am pursuing for B.Tech.
+- 👨‍💻 Interested in Android Devlopment.
+- 🤗 Always open to learn new things.
 - 🔭 I’m currently working on my own project.
-- 🌱 I’m currently learning Artificial intelligence.
+- 🌱 And learning Artificial intelligence.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rihanali001)](https://github.com/ryo-ma/github-profile-trophy)
 
