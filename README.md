@@ -11,7 +11,7 @@
 - 🎨 Crafting seamless web experiences with <b>amazing animations</b> and <b>Framer Motion</b>.
 - 🏆 Competitive programming enthusiast sharpening my problem-solving skills.
 - 🌱 Constantly learning and open to exploring other new tech stacks.
-- 📫 Reach me at: **[rihanali01010@gmail.com](mailto:rihanali01010@gmail.com)** or [<b>LinkedIn</b>](https://linkedin.com/in/parvej-ali).
+- 📫 Reach me at: **[Gmail](mailto:rihanali01010@gmail.com)** or [<b>LinkedIn</b>](https://linkedin.com/in/parvej-ali).
 
 ---
 
