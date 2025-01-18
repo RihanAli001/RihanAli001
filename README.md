@@ -1,36 +1,58 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50">, my name is Rihan Ali!
+# 💫 About Me:
 
-## 🚀 About Me
+<h1 align="center">Hi there! 👋 I'm <span style="color:#6C63FF;">Parvej Ali</span></h1>
 
-A passionate and dedicated Full Stack Developer with a knack for creating efficient and scalable applications. With a solid foundation in engineering, I've honed my skills across a variety of technologies and platforms. Here’s a bit more about me:
+<p align="center">
+  🚀 <b>Passionate Full Stack Developer</b> | 🧑‍💻 <b>Competitive Programmer</b> | 🎨 <b>Animation Enthusiast</b> 🎯
+</p>
 
-- 👨‍💻 **Professional Role**: I specialize in Full Stack Development, crafting seamless user experiences and robust backend systems.
-- 🌱 **Lifelong Learner**: I believe in continuous learning and growth. Currently, I’m diving deep into the world of AI, exploring its potential to transform industries.
-- 🤗 **Open to Collaborations**: I love connecting with like-minded individuals. Whether it's brainstorming new ideas or working on exciting projects, I’m always open to new opportunities.
-- 💬 **Let's Chat**: Feel free to reach out to me about Full Stack Development or any tech-related topic. I enjoy engaging in meaningful conversations and exchanging knowledge.
+- 💼 Currently working as a <b>Full Stack Software Engineer</b>.
+- 🌟 Skilled in <b>Angular</b>, <b>Node.js</b> and <b>PostgreSQL</b>.
+- 🎨 Crafting seamless web experiences with <b>amazing animations</b> and <b>Framer Motion</b>.
+- 🏆 Competitive programming enthusiast sharpening my problem-solving skills.
+- 🌱 Constantly learning and open to exploring other new tech stacks.
+- 📫 Reach me at: **[rihanali01010@gmail.com](mailto:rihanali01010@gmail.com)** or [<b>LinkedIn</b>](https://linkedin.com/in/parvej-ali).
 
-## 🛠️ Skills
+---
 
-### Programming Languages
-- **TypeScript**: Proficient in both front-end (Angular) and back-end (Node.js).
+## 🛠️ Tech Stack:
 
-### Frameworks and Libraries
-- **Frontend**: Angular, RxJs, NgRx
-- **Backend**: Node.js, Express
+### 💻 Frontend:
+<div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-### Tools and Platforms
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker
-- **CI/CD**: GitHub Actions
-- **Cloud Services**: AWS, Firebase
-- **Development Environments**: VS Code
+### ⚙️ Backend:
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize&logoColor=1572B6" />
+</div>
 
-## 📈 My GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rihanali001)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihanali001)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihanali001&layout=compact)
+### 🔧 Tools & Others:
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
-<!---
-RihanAli0001/RihanAli0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 Let's Connect:
+
+<div align="center">
+  <a href="https://linkedin.com/in/parvej-ali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Thank you for stopping by! Have a great day! 😊</h3>
+</div>
